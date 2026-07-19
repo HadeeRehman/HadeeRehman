@@ -1,28 +1,25 @@
-# Hadee Rehman
+# 👋 Hi, I'm Hadee Rehman
 
-**Aspiring Data Analyst**  
-Srinagar, India  
-Focused on transforming complex datasets into actionable business insights to drive strategic decisions.
-
----
-
-### Technical Skills
-
-*   **Data Analysis & Manipulation:** Python (Pandas, NumPy), Excel
-*   **Data Visualization:** Power BI, Matplotlib, Seaborn
-*   **Database Management:** SQL
+### 📊 Aspiring Data Analyst 
+📍 Srinagar, India  
+✉️ parrayhadi1223@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/hadeerehman)
 
 ---
 
-### Professional Focus
-
-*   Developing end-to-end data analysis and visualization projects.
-*   Applying statistical methods and programming to solve real-world business problems.
-*   Open to networking, collaboration, and entry-level opportunities in data analytics.
+## 🚀 About Me
+I am a passionate, self-taught data analyst focused on transforming complex datasets into actionable business insights to drive strategic decisions. I enjoy building structured data pipelines and creating clear visualizations.
 
 ---
 
-### Contact & Connect
+## 🛠️ Technical Skills
 
-*   **LinkedIn:** [linkedin.com/in/hadeerehman](https://www.linkedin.com/in/hadeerehman)
-*   **Email:** parrayhadi1223@gmail.com
+* **Data Analysis & Manipulation:** Python (`Pandas`, `NumPy`), Excel
+* **Data Visualization:** `Matplotlib` (Currently Mastering! 📈)
+* **Future Stack:** `SQL`, `Power BI`, `Seaborn` (Learning Next)
+
+---
+
+## 📂 Featured Projects
+
+* **[Pandas Employee ETL Pipeline](https://github.com/HadeeRehman/pandas-employee-etl-pipeline)** - A Pandas-based ETL pipeline that filters, cleans, and aggregates raw employee records into department performance reports.
+* **[Python Employee ETL Pipeline](https://github.com/HadeeRehman/python-employee-etl-pipeline)** - A native Python-based ETL pipeline that parses raw employee CSV data and generates formatted reports.
