@@ -26,4 +26,3 @@ Focused on transforming complex datasets into actionable business insights to dr
 
 *   **LinkedIn:** [linkedin.com/in/hadeerehman](https://www.linkedin.com/in/hadeerehman)
 *   **Email:** parrayhadi1223@gmail.com
-* **[Python Employee ETL Pipeline](https://github.com/HadeeRehman/python-employee-etl-pipeline)** - A native Python-based ETL pipeline that parses raw employee CSV data and generates formatted reports.
